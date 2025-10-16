@@ -9,4 +9,4 @@ I added input validation to check if the fields were not empty and used a try-ca
 ## 3. What improvements would you add in future versions?
 In future versions, I would like to improve the app’s design using Material components and maybe add features like saving data or clearing input fields automatically after submission.
 
-So today’s activity helped me understand how to handle user input and button click events in Android Studio using Kotlin. I learned how to connect the layout elements to the code and make the app respond properly when the user interacts with it.
+In summary, today’s activity helped me understand how to handle user input and button click events in Android Studio using Kotlin. I learned how to connect the layout elements to the code and make the app respond properly when the user interacts with it.
